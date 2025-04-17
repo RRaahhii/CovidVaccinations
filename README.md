@@ -1,1 +1,8 @@
-This is my first attempt at Exploratory Data Analysis. I'm still getting used to SQL and Pandas for data manipulation, so bear with me if the code seems pretty simplistic or not inclusive enough. I took this dataset from Kaggle, and decided to play around with it. Reading in CSV files, displaying the files, checking for null values, doing a summary statistic analysis, and visualizing the data is all I can do right now at my current level. There is a SQL and a python file because I decided to use this dataset in both languages for practice. I have to learn how to use Seaborn and Matplotlib better, and learn how to clean and filter data more as well.  
+This project focuses on basic Exploratory Data Analysis (EDA) using both SQL and Python. The dataset was sourced from Kaggle and analyzed using beginner-level techniques. The repository includes both .sql and .py files to demonstrate data exploration in each language.
+Current functionality includes: 
+
+- Reading and displaying CSV files
+- Checking for null values
+- Basic data visualization
+
+Future improvements will involve enhanced use of Seaborn, Matplotlib, and more advanced data cleaning and filtering techniques.
